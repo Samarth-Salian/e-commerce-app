@@ -1,5 +1,4 @@
 import { Container, Row, Col, Button, Navbar, Modal, Badge, Image } from 'react-bootstrap';
-import 'holderjs';
 
 import React, { useEffect, useState } from 'react';
 import Product from './Product';
