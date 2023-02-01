@@ -28,7 +28,7 @@ Track Delivery Status: The ability to track the status of an order after it has 
 Conclusion
 The e-commerce application provides a user-friendly platform for purchasing products online. With the features described above, users can easily browse and purchase items, and the platform provides a secure and reliable checkout process.
 
-# Getting Started with Create React App
+# Getting Started with e-commerce-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
